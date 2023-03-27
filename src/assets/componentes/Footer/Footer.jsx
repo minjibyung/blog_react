@@ -56,12 +56,12 @@ export default function footer(){
               <div class="footer-head">
                 <h4>Instagram</h4>
                 <div class="flicker-img">
-                  <a href="#"><img src="public/1.jpg" alt=""/></a>
-                  <a href="#"><img src="public/2.jpg" alt=""/></a>
-                  <a href="#"><img src="public/3.jpg" alt=""/></a>
-                  <a href="#"><img src="public/4.jpg" alt=""/></a>
-                  <a href="#"><img src="img/portfolio/5.jpg" alt=""/></a>
-                  <a href="#"><img src="img/portfolio/6.jpg" alt=""/></a>
+                  <a href="#"><img src="img/portfolio/1.jpg" alt=""></img></a>
+                  <a href="#"><img src="img/portfolio/2.jpg" alt=""></img></a>
+                  <a href="#"><img src="img/portfolio/3.jpg" alt=""></img></a>
+                  <a href="#"><img src="img/portfolio/4.jpg" alt=""></img></a>
+                  <a href="#"><img src="img/portfolio/5.jpg" alt=""></img></a>
+                  <a href="#"><img src="img/portfolio/6.jpg" alt=""></img></a>
                 </div>
               </div>
             </div>
