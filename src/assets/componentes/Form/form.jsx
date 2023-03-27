@@ -18,11 +18,11 @@ export default function form(){
                 </div>
               </form>
             </div>
-            </div>
-            </div>
-            </div>
-            </div>
-            </div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
   )
 }

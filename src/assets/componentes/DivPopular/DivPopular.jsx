@@ -2,6 +2,7 @@ import React from 'react';
 
 export default function acita(){
     return(
+
         <div class="single-blog-page">
               <div class="left-tags blog-tags">
                 <div class="popular-tag left-side-tags left-blog">
@@ -30,11 +31,12 @@ export default function acita(){
                     </li>
                     <li>
                       <a href="#">Ortodoncia de Brackets</a>
-                    </li>
+                      </li>
                   </ul>
                 </div>
               </div>
             </div>
+
 
     )
 }

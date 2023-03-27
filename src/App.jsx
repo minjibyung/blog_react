@@ -10,7 +10,9 @@ import DivArchive from './assets/componentes/DivArchive/DivArchive'
 import Divcards from './assets/componentes/Divcards/Divcards'
 import Ul from './assets/componentes/Ul/Ul'
 import DivPopular from './assets/componentes/DivPopular/DivPopular'
+import DivFooter from './assets/componentes/DivFooter/DivFooter'
 import Footer from './assets/componentes/Footer/Footer'
+import AFooter from './assets/componentes/AFooter/AFooter'
 import './App.css'
 
 function App() {
@@ -18,7 +20,6 @@ function App() {
 
   return (
     <>
-
     <Header/>
     <Div/>
     <Form/>
@@ -28,7 +29,9 @@ function App() {
     <DivPopular/>
     <Divcards/>
     <Ul/>
+    <DivFooter/>
     <Footer/>
+    <AFooter/>
     </>
       )
 }
