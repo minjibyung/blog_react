@@ -4,12 +4,13 @@ import viteLogo from '/vite.svg'
 import Header from './assets/componentes/Header/header'
 import Div from './assets/componentes/Div/Div'
 import Form from './assets/componentes/Form/form'
+import Divpost from './assets/componentes/Divpost/Divpost'
 import Divcategory from './assets/componentes/Divcategory/Divcategory'
+import DivArchive from './assets/componentes/DivArchive/DivArchive'
 import Divcards from './assets/componentes/Divcards/Divcards'
 import Ul from './assets/componentes/Ul/Ul'
-import Divwpp from './assets/componentes/Divwpp/Divwpp'
-import Acita from './assets/componentes/Acita/Acita'
-// import Footer from './assets/componentes/Footer/Footer'
+import DivPopular from './assets/componentes/DivPopular/DivPopular'
+import Footer from './assets/componentes/Footer/Footer'
 import './App.css'
 
 function App() {
@@ -17,16 +18,17 @@ function App() {
 
   return (
     <>
-    
+
     <Header/>
     <Div/>
     <Form/>
+    <Divpost/>
     <Divcategory/>
+    <DivArchive/>
+    <DivPopular/>
     <Divcards/>
     <Ul/>
-    <Divwpp/>
-    <Acita/>
-    {/* <Footer/> */}
+    <Footer/>
     </>
       )
 }

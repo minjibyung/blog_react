@@ -2,7 +2,8 @@ import React from 'react';
 
 export default function divcategory(){
 return(
-  <div class="left-blog1">
+  <div class="single-blog-page">
+  <div class="left-blog">
     <h4>Categorias</h4>
     <ul>
       <li>
@@ -26,16 +27,8 @@ return(
       <li>
         <a href="#">Implantes Dentales</a>
       </li>
-      <li>
-        <a href="#">Carillas Dentales</a>
-      </li>
-      <li>
-        <a href="#">Protesis Dental</a>
-      </li>
-      <li>
-        <a href="#">Tratamiento Periodontal</a>
-      </li>
     </ul>
   </div>
+</div>
 )
 }
