@@ -8,13 +8,13 @@ export default function divcards(){
           <div class="single-blog">
             <div class="single-blog-img">
               <a href="blog-details.html">
-                  <img src="https://www.ragaortodoncia.com/wp-content/uploads/2021/07/que-es-ortodoncia-baja-friccion-raga-1024x1024.jpg" alt="Ortodoncia_Brackets"/>
+              <img src="img/blog/3.jpg"alt="Ortodoncia_Brackets"/>
                 </a>
             </div>
             <div class="blog-meta">
               <span class="comments-type">
                   <i class="fa fa-comment-o"></i>
-                  <a href="#">11 comments</a>
+                  <a href="#">11 comentarios</a>
                 </span>
               <span class="date-type">
                   <i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
@@ -43,13 +43,13 @@ export default function divcards(){
           <div class="single-blog">
             <div class="single-blog-img">
               <a href="blog-details.html">
-                  <img src="https://clinicablasi.com/wp-content/uploads/2018/11/invisaling-ortodoncia.jpg" alt="Ortodoncia_Invisible"/>
+                  <img src="img/blog/1.jpg" alt="Ortodoncia_Invisible"/>
                 </a>
             </div>
             <div class="blog-meta">
               <span class="comments-type">
                   <i class="fa fa-comment-o"></i>
-                  <a href="#">7 comments</a>
+                  <a href="#">7 comentarios</a>
                 </span>
               <span class="date-type">
                   <i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
@@ -80,13 +80,13 @@ export default function divcards(){
           <div class="single-blog">
             <div class="single-blog-img">
               <a href="blog-details.html">
-                  <img src="img/blog/3.jpg" alt=""/>
+                  <img src="img/about/dentista3.jpg" alt=""/>
                 </a>
             </div>
             <div class="blog-meta">
               <span class="comments-type">
                   <i class="fa fa-comment-o"></i>
-                  <a href="#">13 comments</a>
+                  <a href="#">13 comentarios</a>
                 </span>
               <span class="date-type">
                   <i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
@@ -96,9 +96,14 @@ export default function divcards(){
               <h4>
                   <a href="#">Acerca de nosotros</a>
                 </h4>
-              <p>
-                Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit.
-              </p>
+                <p>En el 2022 el equipo de trabajo tomo la decisión de crear una pagina
+                  web con el fin de que las clínicas odontológicas tengan un sistema 
+                  más avanzado, para lograr fusionar las especialidades de la 
+                  odontología en varias sedes de la región y lograr llamar  el 
+                  interés  de otros profesionales allegados en otros consultorios de 
+                  sedes cercanas en la región, con estándares de calidad en la 
+                  odontología actual y finalmente siendo Fresh Smile Cmills 
+                  nuestro unico proyecto.</p>
             </div>
             <span>
                 <a href="blog-details.html" class="ready-btn">Leer mas</a>
@@ -116,7 +121,7 @@ export default function divcards(){
             <div class="blog-meta">
               <span class="comments-type">
                   <i class="fa fa-comment-o"></i>
-                  <a href="#">1 comments</a>
+                  <a href="#">1 comentarios</a>
                 </span>
               <span class="date-type">
                   <i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
@@ -124,10 +129,11 @@ export default function divcards(){
             </div>
             <div class="blog-text">
               <h4>
-                  <a href="#">Post my imagine Items</a>
+                  <a href="#">Ortodoncia para niños</a>
                 </h4>
               <p>
-                Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit.
+                La ortodoncia en niños lo hacemos con el mayor cuidado y responsabilidad en nuestros pequeños pacientes
+                para que se sientan seguros y tranquilos a la hora de realizar cuyo procedimiento citado.
               </p>
             </div>
             <span>
@@ -140,13 +146,13 @@ export default function divcards(){
           <div class="single-blog">
             <div class="single-blog-img">
               <a href="blog-details.html">
-                  <img src="img/blog/5.jpg" alt=""/>
+                  <img src="img/blog/2.jpg" alt=""/>
                 </a>
             </div>
             <div class="blog-meta">
               <span class="comments-type">
                   <i class="fa fa-comment-o"></i>
-                  <a href="#">10 comments</a>
+                  <a href="#">10 comentarios</a>
                 </span>
               <span class="date-type">
                   <i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
@@ -154,10 +160,14 @@ export default function divcards(){
             </div>
             <div class="blog-text">
               <h4>
-                  <a href="#">Post my imagine Items</a>
+                  <a href="#">Procedimientos en brackets</a>
                 </h4>
               <p>
-                Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit.
+              Todo tratamiento de ortodoncia tiene un proceso desde que acudes a tu ortodoncista, hasta que tu problema 
+              dentario queda solucionado. En este artículo, vamos a ver cómo y cuáles son dichas etapas. 
+              El proceso de ortodoncia implica un conjunto de movimientos dentarios que se realizan para mejorar la 
+              estética, función y masticación de tu boca. Éste se divide en varias etapas hasta conseguir la sonrisa 
+              deseada.
               </p>
             </div>
             <span>

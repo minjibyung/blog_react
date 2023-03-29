@@ -1,19 +1,17 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import Header from './assets/componentes/Header/header'
-import Div from './assets/componentes/Div/Div'
-import Form from './assets/componentes/Form/form'
-import Divpost from './assets/componentes/Divpost/Divpost'
-import Divcategory from './assets/componentes/Divcategory/Divcategory'
-import DivArchive from './assets/componentes/DivArchive/DivArchive'
-import Divcards from './assets/componentes/Divcards/Divcards'
-import Ul from './assets/componentes/Ul/Ul'
-import DivPopular from './assets/componentes/DivPopular/DivPopular'
-import DivFooter from './assets/componentes/DivFooter/DivFooter'
-import Footer from './assets/componentes/Footer/Footer'
-import AFooter from './assets/componentes/AFooter/AFooter'
-import './App.css'
+import Header from './assets/blog/Header/Header'
+import Div from './assets/blog/Div/Div'
+import Form from './assets/blog/Form/form'
+import Divpost from './assets/blog/Divpost/Divpost'
+import Divcategory from './assets/blog/Divcategory/Divcategory'
+// import DivArchive from './assets/componentes/DivArchive/DivArchive'
+import Divcards from './assets/blog/Divcards/Divcards'
+import Ul from './assets/blog/Ul/Ul'
+import DivPopular from './assets/blog/DivPopular/DivPopular'
+import DivFooter from './assets/blog/DivFooter/DivFooter'
+import Footer from './assets/blog/Footer/Footer'
+import AFooter from './assets/blog/AFooter/AFooter'
+
 
 function App() {
   const [count, setCount] = useState(0)
@@ -25,7 +23,7 @@ function App() {
     <Form/>
     <Divpost/>
     <Divcategory/>
-    <DivArchive/>
+    {/* <DivArchive/> */}
     <DivPopular/>
     <Divcards/>
     <Ul/>
